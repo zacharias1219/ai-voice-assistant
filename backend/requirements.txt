@@ -4,5 +4,6 @@ livekit-plugins-silero
 python-dotenv
 livekit-api
 flask[async]
-flaskflask=cors
+flask
+flask-cors
 uvicorn
